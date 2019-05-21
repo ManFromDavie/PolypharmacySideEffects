@@ -1,2 +1,2 @@
 # PolypharmacySideEffects
-Data science project to model drig interactions.
+Data science project to model drig interactions..
